@@ -1,0 +1,14 @@
+C:\Users\Johnniew\source\repos\ipconfig\ipconfig\bin\Debug\net8.0\ipconfig.exe
+C:\Users\Johnniew\source\repos\ipconfig\ipconfig\bin\Debug\net8.0\ipconfig.deps.json
+C:\Users\Johnniew\source\repos\ipconfig\ipconfig\bin\Debug\net8.0\ipconfig.runtimeconfig.json
+C:\Users\Johnniew\source\repos\ipconfig\ipconfig\bin\Debug\net8.0\ipconfig.dll
+C:\Users\Johnniew\source\repos\ipconfig\ipconfig\bin\Debug\net8.0\ipconfig.pdb
+C:\Users\Johnniew\source\repos\ipconfig\ipconfig\obj\Debug\net8.0\ipconfig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johnniew\source\repos\ipconfig\ipconfig\obj\Debug\net8.0\ipconfig.AssemblyInfoInputs.cache
+C:\Users\Johnniew\source\repos\ipconfig\ipconfig\obj\Debug\net8.0\ipconfig.AssemblyInfo.cs
+C:\Users\Johnniew\source\repos\ipconfig\ipconfig\obj\Debug\net8.0\ipconfig.csproj.CoreCompileInputs.cache
+C:\Users\Johnniew\source\repos\ipconfig\ipconfig\obj\Debug\net8.0\ipconfig.dll
+C:\Users\Johnniew\source\repos\ipconfig\ipconfig\obj\Debug\net8.0\refint\ipconfig.dll
+C:\Users\Johnniew\source\repos\ipconfig\ipconfig\obj\Debug\net8.0\ipconfig.pdb
+C:\Users\Johnniew\source\repos\ipconfig\ipconfig\obj\Debug\net8.0\ipconfig.genruntimeconfig.cache
+C:\Users\Johnniew\source\repos\ipconfig\ipconfig\obj\Debug\net8.0\ref\ipconfig.dll
